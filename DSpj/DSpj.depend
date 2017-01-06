@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1482153985 source:c:\users\p\desktop\数据结构pj\dspj\main.cpp
+	<iostream>
+	"basic_analysis.h"
+	"Road.h"
+	"Order.h"
+	"State.h"
+	"stayStrategy.h"
+	"POI.h"
+
+1482151409 source:c:\users\p\desktop\数据结构pj\dspj\basic_analysis.cpp
+	"basic_analysis.h"
+	<math.h>
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<algorithm>
+
+1482040851 c:\users\p\desktop\数据结构pj\dspj\basic_analysis.h
+	"State.h"
+
+1481971805 c:\users\p\desktop\数据结构pj\dspj\state.h
+
+1481971698 source:c:\users\p\desktop\数据结构pj\dspj\state.cpp
+	"State.h"
+
+1482072768 c:\users\p\desktop\数据结构pj\dspj\road.h
+	<map>
+	<vector>
+	<iostream>
+	<string.h>
+	<math.h>
+	<queue>
+	<fstream>
+	<algorithm>
+
+1482151384 source:c:\users\p\desktop\数据结构pj\dspj\road.cpp
+	"Road.h"
+
+1482051383 c:\users\p\desktop\数据结构pj\dspj\order.h
+	"State.h"
+	<stdio.h>
+	<algorithm>
+
+1482151330 source:c:\users\p\desktop\数据结构pj\dspj\order.cpp
+	"Order.h"
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<algorithm>
+
+1482037776 c:\users\p\desktop\数据结构pj\dspj\define.h
+	"basic_analysis.h"
+	"Road.h"
+	"Order.h"
+	"State.h"
+
+1482154983 source:c:\users\p\desktop\数据结构pj\dspj\staystrategy.cpp
+	<string.h>
+	<fstream>
+	<string>
+	<string.h>
+	"Order.h"
+	"Road.h"
+	"stayStrategy.h"
+
+1482071869 c:\users\p\desktop\数据结构pj\dspj\staystrategy.h
+	"basic_analysis.h"
+	"Road.h"
+	"Order.h"
+	"State.h"
+	<map>
+
+1482122852 source:c:\users\p\desktop\数据结构pj\dspj\detect.cpp
+
+1482141784 c:\users\p\desktop\数据结构pj\dspj\poi.h
+	"basic_analysis.h"
+	"Road.h"
+	"Order.h"
+	"State.h"
+	<map>
+	<math.h>
+	<string.h>
+
+1482154665 source:c:\users\p\desktop\数据结构pj\dspj\poi.cpp
+	"POI.h"
+	<stdio.h>
+	<string.h>
+	<fstream>
+	<string>
+	<string.h>
+	<stdlib.h>
+	<algorithm>
+
